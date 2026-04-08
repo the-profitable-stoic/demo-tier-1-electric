@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Tier 1 Electric",
+    "phone": "+12085505887",
+    "category": "electrician",
+    "city": "Boise",
+    "state": "ID"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Boise's Trusted Electricians",
+      "heroSubline": "Powering Boise homes and businesses with reliable electrical services. Safety and expertise are our top priorities.",
+      "aboutTitle": "Powering Boise Since 2012",
+      "aboutText": [
+        "Tier 1 Electric started with a simple mission: to provide honest, reliable electrical services to the Boise community. We saw a need for electricians who not only knew their trade but also treated customers with respect and integrity. From humble beginnings, we've grown into a team of skilled professionals dedicated to keeping your lights on and your systems running smoothly.",
+        "Our approach is straightforward: diagnose the problem accurately, explain the solution clearly, and execute the work flawlessly. We value transparent communication, upfront pricing, and meticulous attention to detail. We believe in doing the job right the first time, every time. We use quality materials and stay up-to-date with the latest electrical codes and technologies.",
+        "Boise is more than just our service area; it's our home. We're committed to giving back to the community that has supported us. We actively participate in local events and support organizations that make Boise a better place to live. We're proud to be a part of the Treasure Valley and dedicated to its continued success."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Electrical emergencies don't wait, and neither do we. Call us anytime for immediate assistance."
+        },
+        {
+          "title": "Upfront, Transparent Pricing",
+          "description": "No hidden fees or surprise charges. You'll know the cost before we start the work."
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "We're fully licensed and insured for your protection and peace of mind."
+        },
+        {
+          "title": "Experienced Professionals",
+          "description": "Our team has years of experience handling all types of electrical projects."
+        }
+      ],
+      "ctaHeadline": "Get a Free Estimate Today",
+      "ctaSubline": "Contact us to discuss your electrical needs and receive a no-obligation quote."
+    },
+    "services": [
+      {
+        "slug": "electrical-repair",
+        "name": "Electrical Repair",
+        "shortDescription": "Fast and reliable electrical repair services for your Boise home or business.",
+        "description": "Electrical problems can be frustrating and even dangerous. Tier 1 Electric provides comprehensive electrical repair services to address any issue, big or small. From flickering lights and faulty outlets to circuit breaker problems and wiring issues, our experienced electricians have the expertise to diagnose and fix the problem quickly and effectively.\n\nWe understand the importance of safety, especially when it comes to electrical repairs. Our electricians adhere to strict safety protocols and use the latest diagnostic tools to ensure accurate and safe repairs. We'll thoroughly inspect your electrical system to identify the root cause of the problem and provide a lasting solution, not just a temporary fix.\n\nWhether you're dealing with a power outage, a sparking outlet, or any other electrical issue, don't hesitate to call Tier 1 Electric. We offer 24/7 emergency repair services to ensure your safety and peace of mind. We service older homes in the North End to modern builds in Harris Ranch, adapting our approach to the specific needs of each property.",
+        "process": [
+          "Step 1: Call Tier 1 Electric to describe the electrical issue.",
+          "Step 2: We'll dispatch a qualified electrician to your location promptly.",
+          "Step 3: The electrician will diagnose the problem and provide a transparent quote.",
+          "Step 4: Upon approval, we'll complete the repair efficiently and safely."
+        ],
+        "benefits": [
+          "Fast and reliable service",
+          "Experienced and licensed electricians",
+          "Upfront and transparent pricing",
+          "24/7 emergency service"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an emergency repair?",
+            "answer": "We prioritize emergency repairs and strive to arrive at your location as quickly as possible, typically within an hour depending on your location in the Boise area."
+          },
+          {
+            "question": "What types of electrical repairs do you handle?",
+            "answer": "We handle all types of electrical repairs, including outlet repair, circuit breaker replacement, wiring issues, lighting problems, and more."
+          },
+          {
+            "question": "Are your electricians licensed and insured?",
+            "answer": "Yes, all of our electricians are fully licensed and insured to provide electrical services in Boise, ID."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-installation",
+        "name": "Electrical Installation",
+        "shortDescription": "Expert electrical installation services for new construction, remodels, and upgrades.",
+        "description": "Planning a new construction project, remodeling your home, or upgrading your electrical system? Tier 1 Electric provides expert electrical installation services tailored to your specific needs. We handle everything from wiring and panel upgrades to lighting installation and appliance hookups.\n\nOur experienced electricians work closely with homeowners, contractors, and businesses to ensure that all electrical installations are performed safely, efficiently, and according to code. We use high-quality materials and the latest techniques to ensure the longevity and reliability of your electrical system. We are familiar with the unique wiring challenges of older homes found near the Idaho State Capitol, as well as the modern electrical demands of new construction in the outskirts of Boise.\n\nWhether you're installing new outlets, adding recessed lighting, or wiring an entire building, Tier 1 Electric has the expertise and resources to get the job done right. We provide detailed proposals, clear communication, and exceptional workmanship to ensure your complete satisfaction.",
+        "process": [
+          "Step 1: Contact Tier 1 Electric to discuss your electrical installation needs.",
+          "Step 2: We'll provide a detailed proposal and timeline for the project.",
+          "Step 3: Our electricians will perform the installation according to code and best practices.",
+          "Step 4: We'll conduct a thorough inspection to ensure everything is working properly."
+        ],
+        "benefits": [
+          "Expert installation services",
+          "Compliance with all electrical codes",
+          "High-quality materials and workmanship",
+          "Detailed proposals and clear communication"
+        ],
+        "faq": [
+          {
+            "question": "Do you provide electrical installation services for new construction?",
+            "answer": "Yes, we have extensive experience in providing electrical installation services for new construction projects of all sizes."
+          },
+          {
+            "question": "Can you help with lighting design and installation?",
+            "answer": "Absolutely! We can help you design and install the perfect lighting方案 for your home or business, including recessed lighting, accent lighting, and security lighting."
+          },
+          {
+            "question": "How do I know if my electrical panel needs to be upgraded?",
+            "answer": "If your panel is old, outdated, or frequently tripping breakers, it may be time for an upgrade. Contact us for a professional inspection."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-services",
+        "name": "Lighting Services",
+        "shortDescription": "Illuminate your Boise home with our expert lighting services, from design to installation.",
+        "description": "Proper lighting can transform the look and feel of your home or business. Tier 1 Electric offers comprehensive lighting services to help you achieve the perfect ambiance, enhance security, and improve energy efficiency. From recessed lighting and chandeliers to outdoor lighting and landscape lighting, we have the expertise to handle any lighting project.\n\nOur experienced electricians can help you design a custom lighting方案 tailored to your specific needs and preferences. We'll take into account factors such as room size, ceiling height, and natural light to create a lighting design that is both functional and aesthetically pleasing. We can help you select the right fixtures, bulbs, and controls to maximize energy savings and minimize maintenance costs.\n\nWhether you're looking to upgrade your existing lighting, install new lighting in a remodel, or add landscape lighting to enhance your curb appeal, Tier 1 Electric has the expertise and resources to get the job done right. We work with both residential and commercial clients throughout the Boise area. We know how important outdoor lighting is to homes near the Boise River Greenbelt, and we customize our approach based on the neighborhood.",
+        "process": [
+          "Step 1: Schedule a consultation with Tier 1 Electric to discuss your lighting needs.",
+          "Step 2: We'll develop a custom lighting design and provide a detailed proposal.",
+          "Step 3: Our electricians will install the lighting according to the design.",
+          "Step 4: We'll test and adjust the lighting to ensure optimal performance."
+        ],
+        "benefits": [
+          "Custom lighting design",
+          "Energy-efficient lighting solutions",
+          "Professional installation",
+          "Enhanced security and ambiance"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of LED lighting?",
+            "answer": "LED lighting is more energy-efficient, longer-lasting, and produces less heat than traditional incandescent lighting."
+          },
+          {
+            "question": "Can you install outdoor lighting?",
+            "answer": "Yes, we can install a variety of outdoor lighting options, including landscape lighting, security lighting, and patio lighting."
+          },
+          {
+            "question": "Do you offer smart lighting solutions?",
+            "answer": "Yes, we can install and configure smart lighting systems that can be controlled remotely via your smartphone or tablet."
+          }
+        ]
+      },
+      {
+        "slug": "panel-upgrades",
+        "name": "Panel Upgrades",
+        "shortDescription": "Upgrade your electrical panel for safety and increased capacity in your Boise home.",
+        "description": "An outdated or overloaded electrical panel can be a safety hazard and limit your ability to power modern appliances and electronics. Tier 1 Electric provides professional panel upgrade services to ensure the safety and reliability of your electrical system. We'll assess your current panel and determine the appropriate size and capacity for your needs.\n\nOur experienced electricians will carefully remove your old panel and install a new, upgraded panel that meets all current electrical codes. We'll ensure that all wiring is properly connected and that the panel is grounded correctly. We can also add new circuits to accommodate additional appliances or equipment.\n\nIf you're experiencing frequent tripped breakers, flickering lights, or have added new appliances to your home, it may be time for a panel upgrade. Tier 1 Electric can help you determine the best solution for your needs and provide a safe and reliable panel upgrade.",
+        "process": [
+          "Step 1: Schedule an electrical panel inspection with Tier 1 Electric.",
+          "Step 2: We'll assess your panel and provide a recommendation for an upgrade.",
+          "Step 3: Our electricians will install the new panel according to code.",
+          "Step 4: We'll test the panel and ensure everything is working properly."
+        ],
+        "benefits": [
+          "Increased electrical capacity",
+          "Improved safety",
+          "Compliance with electrical codes",
+          "Reliable power for your home"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need a panel upgrade?",
+            "answer": "Signs that you may need a panel upgrade include frequent tripped breakers, flickering lights, and an outdated panel."
+          },
+          {
+            "question": "How long does a panel upgrade take?",
+            "answer": "A typical panel upgrade can take anywhere from 4 to 8 hours, depending on the complexity of the job."
+          },
+          {
+            "question": "Is a permit required for a panel upgrade?",
+            "answer": "Yes, a permit is typically required for a panel upgrade. We'll handle the permit process for you."
+          }
+        ]
+      },
+      {
+        "slug": "wiring-services",
+        "name": "Wiring Services",
+        "shortDescription": "Comprehensive wiring services for new construction, remodels, and repairs in Boise.",
+        "description": "Proper wiring is essential for the safe and reliable operation of your electrical system. Tier 1 Electric provides comprehensive wiring services for new construction, remodels, and repairs. Our experienced electricians can handle any wiring project, from running new circuits to replacing damaged wiring.\n\nWe use high-quality wiring materials and follow all electrical codes to ensure the safety and longevity of your electrical system. We can also help you identify and address potential wiring hazards, such as aluminum wiring or knob-and-tube wiring. We understand the intricacies of wiring in older homes in the Boise area and the importance of updating wiring to meet modern electrical demands.\n\nWhether you're building a new home, remodeling your kitchen, or simply need to replace a damaged wire, Tier 1 Electric has the expertise and resources to get the job done right. We provide detailed proposals, clear communication, and exceptional workmanship to ensure your complete satisfaction.",
+        "process": [
+          "Step 1: Contact Tier 1 Electric to discuss your wiring needs.",
+          "Step 2: We'll provide a detailed proposal and timeline for the project.",
+          "Step 3: Our electricians will perform the wiring according to code and best practices.",
+          "Step 4: We'll conduct a thorough inspection to ensure everything is working properly."
+        ],
+        "benefits": [
+          "Safe and reliable wiring",
+          "Compliance with all electrical codes",
+          "High-quality materials and workmanship",
+          "Detailed proposals and clear communication"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of faulty wiring?",
+            "answer": "Signs of faulty wiring include flickering lights, sparking outlets, and a burning smell."
+          },
+          {
+            "question": "Can you replace aluminum wiring?",
+            "answer": "Yes, we can replace aluminum wiring with safer copper wiring."
+          },
+          {
+            "question": "Do you offer wiring services for commercial properties?",
+            "answer": "Yes, we provide wiring services for both residential and commercial properties."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-services",
+        "name": "24/7 Emergency Services",
+        "shortDescription": "Reliable 24/7 emergency electrical services in Boise, ID, when you need us most.",
+        "description": "Electrical emergencies can happen at any time, day or night. Tier 1 Electric offers 24/7 emergency electrical services to address urgent electrical issues that require immediate attention, especially during Boise's harsh winter months when power outages are more common. From power outages and downed power lines to electrical fires and sparking outlets, our experienced electricians are available to provide fast and reliable assistance.\n\nWe understand the importance of safety during an electrical emergency. Our electricians are trained to handle hazardous situations and take the necessary precautions to protect your property and your loved ones. We'll quickly assess the situation, identify the problem, and implement a solution to restore power and ensure your safety.\n\nIf you're experiencing an electrical emergency, don't hesitate to call Tier 1 Electric. We're available 24/7 to provide prompt and professional emergency electrical services. We prioritize your safety and peace of mind.",
+        "process": [
+          "Step 1: Call Tier 1 Electric's emergency hotline.",
+          "Step 2: We'll dispatch an electrician to your location immediately.",
+          "Step 3: The electrician will assess the situation and provide a solution.",
+          "Step 4: We'll restore power and ensure your safety."
+        ],
+        "benefits": [
+          "24/7 availability",
+          "Fast response times",
+          "Experienced and trained electricians",
+          "Prioritization of safety"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes an electrical emergency?",
+            "answer": "An electrical emergency includes situations such as power outages, downed power lines, electrical fires, and sparking outlets."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We strive to respond to emergency calls as quickly as possible, typically within the hour."
+          },
+          {
+            "question": "What safety precautions should I take during an electrical emergency?",
+            "answer": "Stay away from downed power lines, do not touch any electrical equipment with wet hands, and evacuate the building if there is a fire."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Boise",
+        "slug": "boise-id",
+        "state": "ID",
+        "content": "Tier 1 Electric is proud to offer comprehensive electrical services to the residents and businesses of Boise, Idaho. As the state's capital and largest city, Boise presents a unique blend of urban sophistication and outdoor recreation, and we are dedicated to providing reliable and efficient electrical solutions to meet its diverse needs.\n\nFrom historic homes in the North End to modern developments in the Treasure Valley, our team of licensed electricians is equipped to handle any electrical project, big or small. We understand the importance of safety and code compliance, and we strive to exceed expectations with every service call. Tier 1 Electric is committed to keeping Boise powered safely and efficiently.\n\nWe offer services such as electrical repair, new lighting installation, electrical panel upgrades, and whole-home surge protection.",
+        "localContext": "Boise's growing tech sector and vibrant downtown area require dependable electrical infrastructure, and Tier 1 Electric is committed to supporting the city's needs.",
+        "nearbyAreas": [
+          "Meridian",
+          "Nampa",
+          "Eagle"
+        ]
+      },
+      {
+        "city": "Meridian",
+        "slug": "meridian-id",
+        "state": "ID",
+        "content": "Tier 1 Electric extends its expert electrical services to the rapidly growing community of Meridian, Idaho. As one of the fastest-growing cities in the state, Meridian boasts a mix of residential neighborhoods, commercial centers, and expanding business parks, creating a high demand for reliable electrical services.\n\nOur team is well-versed in serving Meridian's unique electrical needs, from new construction wiring to electrical upgrades in existing homes. We prioritize customer satisfaction and strive to deliver prompt, professional service with every project. Whether you need a simple outlet repair or a complex electrical installation, Tier 1 Electric has you covered.\n\nWe offer services such as electrical repair, new lighting installation, electrical panel upgrades, and whole-home surge protection.",
+        "localContext": "Meridian's family-friendly atmosphere and booming economy make it a hub for new construction and home renovations, requiring dependable electrical contractors.",
+        "nearbyAreas": [
+          "Boise",
+          "Nampa",
+          "Kuna"
+        ]
+      },
+      {
+        "city": "Nampa",
+        "slug": "nampa-id",
+        "state": "ID",
+        "content": "Tier 1 Electric is pleased to provide top-notch electrical services to the residents and businesses of Nampa, Idaho. As the second-largest city in Idaho, Nampa is a vibrant community with a rich agricultural heritage and a growing industrial sector. We understand the importance of reliable electrical systems in supporting both residential and commercial operations.\n\nOur skilled electricians are experienced in handling a wide range of electrical projects in Nampa, from troubleshooting electrical issues to installing new lighting systems. We are committed to providing safe, efficient, and affordable electrical solutions that meet the specific needs of our customers. Tier 1 Electric strives to be the trusted electrical partner for Nampa.\n\nWe offer services such as electrical repair, new lighting installation, electrical panel upgrades, and whole-home surge protection.",
+        "localContext": "Nampa's blend of agricultural and industrial activities requires a diverse range of electrical services, and Tier 1 Electric is equipped to handle them all.",
+        "nearbyAreas": [
+          "Caldwell",
+          "Meridian",
+          "Star"
+        ]
+      },
+      {
+        "city": "Caldwell",
+        "slug": "caldwell-id",
+        "state": "ID",
+        "content": "Tier 1 Electric is dedicated to serving the electrical needs of Caldwell, Idaho, and its surrounding areas. Caldwell is a thriving city with a strong sense of community and a growing economy. We recognize the importance of providing reliable and efficient electrical services to support Caldwell's residential, commercial, and agricultural sectors.\n\nOur team of licensed electricians is experienced in handling a variety of electrical projects in Caldwell, from wiring new homes to upgrading electrical systems in existing buildings. We are committed to delivering exceptional customer service and ensuring that all our work meets the highest safety standards. Tier 1 Electric is proud to be a trusted electrical provider in Caldwell.\n\nWe offer services such as electrical repair, new lighting installation, electrical panel upgrades, and whole-home surge protection.",
+        "localContext": "Caldwell's growing wine industry and expanding residential neighborhoods create a demand for dependable and skilled electricians.",
+        "nearbyAreas": [
+          "Nampa",
+          "Middleton",
+          "Parma"
+        ]
+      },
+      {
+        "city": "Eagle",
+        "slug": "eagle-id",
+        "state": "ID",
+        "content": "Tier 1 Electric is proud to offer its expertise in electrical services to the residents and businesses of Eagle, Idaho. This upscale community is known for its beautiful homes, scenic landscapes, and thriving local businesses. We understand the importance of maintaining high-quality electrical systems in Eagle's homes and businesses.\n\nOur team of skilled electricians is equipped to handle any electrical project in Eagle, from installing custom lighting to upgrading electrical panels. We are committed to providing exceptional service and ensuring that all our work meets the highest standards of safety and quality. Tier 1 Electric is dedicated to keeping Eagle powered safely and efficiently.\n\nWe offer services such as electrical repair, new lighting installation, electrical panel upgrades, and whole-home surge protection.",
+        "localContext": "Eagle's high-end homes and businesses demand top-quality electrical services, and Tier 1 Electric is dedicated to providing them.",
+        "nearbyAreas": [
+          "Star",
+          "Boise",
+          "Meridian"
+        ]
+      },
+      {
+        "city": "Star",
+        "slug": "star-id",
+        "state": "ID",
+        "content": "Tier 1 Electric provides professional and reliable electrical services to the growing town of Star, Idaho. Star is experiencing rapid residential development, creating a need for dependable electrical contractors for new construction, remodels, and general electrical maintenance.\n\nWe offer a full suite of services to Star residents, including wiring for new homes, installing energy-efficient lighting, upgrading electrical panels to accommodate modern appliances, and troubleshooting any electrical issues that may arise. Our goal is to ensure the safety and efficiency of your home's electrical system.\n\nWe offer services such as electrical repair, new lighting installation, electrical panel upgrades, and whole-home surge protection.",
+        "localContext": "Star's rapid growth creates a high demand for new home electrical installations and upgrades.",
+        "nearbyAreas": [
+          "Eagle",
+          "Middleton",
+          "Emmett"
+        ]
+      },
+      {
+        "city": "Middleton",
+        "slug": "middleton-id",
+        "state": "ID",
+        "content": "Tier 1 Electric is pleased to offer comprehensive electrical services to the residents and businesses of Middleton, Idaho. As a growing community in the Treasure Valley, Middleton offers a unique blend of rural charm and modern development, creating a need for reliable and skilled electricians.\n\nOur team is experienced in handling a wide range of electrical projects in Middleton, from wiring new homes to repairing existing electrical systems. We prioritize customer satisfaction and strive to deliver prompt, professional service with every project. Whether you need a simple outlet repair or a complex electrical installation, Tier 1 Electric is here to help.\n\nWe offer services such as electrical repair, new lighting installation, electrical panel upgrades, and whole-home surge protection.",
+        "localContext": "Middleton's mix of agricultural areas and residential developments requires versatile electrical services.",
+        "nearbyAreas": [
+          "Caldwell",
+          "Star",
+          "Emmett"
+        ]
+      },
+      {
+        "city": "Emmett",
+        "slug": "emmett-id",
+        "state": "ID",
+        "content": "Tier 1 Electric is committed to providing top-quality electrical services to the community of Emmett, Idaho. Located in Gem County, Emmett is known for its agricultural heritage and small-town charm. We understand the importance of reliable electrical systems in supporting both residential and commercial activities in Emmett.\n\nOur skilled electricians are experienced in handling a variety of electrical projects in Emmett, from repairing faulty wiring to installing new lighting systems. We are dedicated to providing safe, efficient, and affordable electrical solutions that meet the specific needs of our customers. Tier 1 Electric is proud to serve the electrical needs of Emmett.\n\nWe offer services such as electrical repair, new lighting installation, electrical panel upgrades, and whole-home surge protection.",
+        "localContext": "Emmett's agricultural focus and historic buildings require specialized electrical knowledge and experience.",
+        "nearbyAreas": [
+          "Star",
+          "Middleton",
+          "Horseshoe-Bend"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Lighting Installation",
+        "text": "Tier 1 Electric installed new recessed lighting in our kitchen, and it looks fantastic! The electrician was professional, efficient, and cleaned up after the job. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David P.",
+        "rating": 4,
+        "service": "Panel Upgrade",
+        "text": "Our old electrical panel was outdated, so we called Tier 1 Electric for an upgrade. The process was smooth and straightforward. They explained everything clearly and completed the job on time. Great service!",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Electrical Repair",
+        "text": "We had a power outage in our home, and Tier 1 Electric responded quickly. The electrician found the problem (a faulty circuit breaker) and fixed it promptly. Very professional and reliable!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Michael K.",
+        "rating": 5,
+        "service": "Wiring Services",
+        "text": "Tier 1 Electric rewired our entire home during a remodel. They did an excellent job, and we're very happy with the results. The electricians were knowledgeable, courteous, and paid attention to detail.",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Outlet Installation",
+        "text": "Needed a few new outlets installed in my home office. Tier 1 Electric was quick to respond and finished the job efficiently. The price was fair, and the work was well-done.",
+        "date": "2024-11-12"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Emergency Repair",
+        "text": "Our power went out late at night, and Tier 1 Electric was there within an hour. They quickly diagnosed the problem and got our power back on. I was impressed with their fast and professional service.",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Boise Electrician | Tier 1 Electric",
+        "description": "Reliable electricians in Boise, ID. Electrical repair, installation, panel upgrades, & 24/7 emergency service. Call Tier 1 Electric today!"
+      },
+      "about": {
+        "title": "About Tier 1 Electric | Boise, ID",
+        "description": "Learn about Tier 1 Electric's mission to provide the best electrical services in Boise, ID. Experienced, licensed, and insured electricians."
+      },
+      "services": {
+        "title": "Electrical Services | Boise, ID | Tier 1",
+        "description": "Tier 1 Electric offers a full range of electrical services in Boise, ID. Repairs, installations, lighting, panel upgrades, & more."
+      },
+      "contact": {
+        "title": "Contact Tier 1 Electric | Boise, ID",
+        "description": "Contact Tier 1 Electric for all your electrical needs in Boise, ID. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Tier 1 Electric Reviews | Boise, ID",
+        "description": "Read reviews from satisfied Tier 1 Electric customers in Boise, ID. See why we're the trusted choice for electrical services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Tier 1 Electric | Boise",
+        "description": "Tier 1 Electric provides electrical services throughout the Boise metro area. See if we service your city!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-repair": "/images/service-electrical-repair.webp",
+      "electrical-installation": "/images/service-electrical-installation.webp",
+      "lighting-services": "/images/service-lighting-services.webp",
+      "panel-upgrades": "/images/service-panel-upgrades.webp",
+      "wiring-services": "/images/service-wiring-services.webp",
+      "emergency-services": "/images/service-emergency-services.webp"
+    },
+    "servicesResponsive": {
+      "electrical-repair": {
+        "src": "/images/service-electrical-repair.webp",
+        "srcset": "/images/service-electrical-repair-400w.webp 400w, /images/service-electrical-repair-800w.webp 800w, /images/service-electrical-repair-1200w.webp 1200w, /images/service-electrical-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-installation": {
+        "src": "/images/service-electrical-installation.webp",
+        "srcset": "/images/service-electrical-installation-400w.webp 400w, /images/service-electrical-installation-800w.webp 800w, /images/service-electrical-installation-1200w.webp 1200w, /images/service-electrical-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-services": {
+        "src": "/images/service-lighting-services.webp",
+        "srcset": "/images/service-lighting-services-400w.webp 400w, /images/service-lighting-services-800w.webp 800w, /images/service-lighting-services-1200w.webp 1200w, /images/service-lighting-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "panel-upgrades": {
+        "src": "/images/service-panel-upgrades.webp",
+        "srcset": "/images/service-panel-upgrades-400w.webp 400w, /images/service-panel-upgrades-800w.webp 800w, /images/service-panel-upgrades-1200w.webp 1200w, /images/service-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wiring-services": {
+        "src": "/images/service-wiring-services.webp",
+        "srcset": "/images/service-wiring-services-400w.webp 400w, /images/service-wiring-services-800w.webp 800w, /images/service-wiring-services-1200w.webp 1200w, /images/service-wiring-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-services": {
+        "src": "/images/service-emergency-services.webp",
+        "srcset": "/images/service-emergency-services-400w.webp 400w, /images/service-emergency-services-800w.webp 800w, /images/service-emergency-services-1200w.webp 1200w, /images/service-emergency-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

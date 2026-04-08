@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-tier-1-electric.dream-surge.com/sitemap-index.xml
